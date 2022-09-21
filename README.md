@@ -20,7 +20,7 @@ The idea is to have multiple brands and models being discussed without one of th
 # Task F: 
 Answered questions like : 
 * What are 5 most frequently mentioned attributes or features of cars in the discussions? 
-*Which attributes are most strongly associated with which of these 5 brands?
+* Which attributes are most strongly associated with which of these 5 brands?
 
 # Task G: 
 Insights from Task F
