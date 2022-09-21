@@ -2,7 +2,7 @@
 This project performs a competitive analysis of the entry level luxury car market in the USA. This was divided into 8 tasks. A brief description of those tasks are given below:
 
 # Task A
-* We have written a scraper to fetch around 5000 posts about cars from the Entry Level Luxury forum https://forums.edmunds.com/discussion/2864/general/x/entry-level-luxury-performance-sedans
+* We have written a scraper to fetch around 5000 posts about cars from the Entry Level Luxury forum https://forums.edmunds.com/discussion/2864/general/x/entry-level-luxury-performance-sedans/p335
 The idea is to have multiple brands and models being discussed without one of them being the focal point. So we have chosen the more recent posts
 
 # Task B
