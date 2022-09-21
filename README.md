@@ -18,10 +18,12 @@ The idea is to have multiple brands and models being discussed without one of th
 * Some insights from our analyses in Tasks C and D 
 
 # Task F: 
-Answered questions like : What are 5 most frequently mentioned attributes or features of cars in the discussions? Which attributes are most strongly associated with which of these 5 brands?
+Answered questions like : 
+* What are 5 most frequently mentioned attributes or features of cars in the discussions? 
+*Which attributes are most strongly associated with which of these 5 brands?
 
 # Task G: 
-Insights from Task F? 
+Insights from Task F
 
 # Task H: 
 Found out which is the most aspirational brand and it's business implications in our data in terms of people actually wanting to buy or own. 
