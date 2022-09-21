@@ -8,3 +8,6 @@ The idea is to have multiple brands and models being discussed without one of th
 
 * Calculated lift ratios for associations between the top-10 brands identified in Task A.
 
+* Showed the brands on a multi-dimensional scaling (MDS) map 
+
+# Task E: Some insights from our analyses in Tasks C and D 
